@@ -40,3 +40,5 @@ These two posters are listed separately from the seven research records. SAPSE-S
 - [AI for Science Summer School](https://ithems.riken.jp/en/events/ai-for-science-summer-school) and [official report](https://ithems.riken.jp/en/news/ai-for-science-summer-school-2026-held-on-august-2527-2026): confirm the 25–27 August 2026 event at RIKEN Wako. Invited-speaker participation is confirmed by the owner-provided activity record; no individual talk title is assigned.
 
 The research overview was updated from the owner's current project records, covering cyclic-peptide modeling and constrained local optimization, single-cell perturbation responses and generalization, and formal verification of scientific reasoning and chemical representations. It describes ongoing research directions without reporting unpublished results.
+
+The owner confirmed receipt of the Otsuka Toshimi scholarship. The foundation name follows its [official website](https://www.otsukafoundation.org/); no award year is inferred.

@@ -62,3 +62,7 @@ html[lang="ja"] .research-copy p{line-height:2}
 .research-theme h3{font-size:16px;font-weight:600;margin-bottom:7px}
 .research-theme p{margin:0}
 .talks-home .presentation:first-child{padding-top:7px}
+
+.scholarship-list{margin:0;padding-left:19px;font-size:14px;line-height:1.8}
+.scholarship-list li+li{margin-top:10px}
+.award-period{color:var(--muted);margin-right:17px;white-space:nowrap}

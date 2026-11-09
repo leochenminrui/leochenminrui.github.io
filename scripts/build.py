@@ -91,13 +91,13 @@ def home(lang):
         affiliation = '九州大学大学院システム情報科学府<br>情報理工学専攻 博士後期課程'
         role = '機械学習・計算生物学・形式手法'
         lab_text = '統計的学習研究室（西郷研究室）'
-        award = '<strong>2019–2023</strong><span>マカオ科学技術大学 Excellent Scholarship</span>'
+        award = '<ul class="scholarship-list"><li><a href="https://www.otsukafoundation.org/">大塚敏美育英奨学財団 奨学金</a></li><li><span class="award-period">2019–2023</span>マカオ科学技術大学 Excellent Scholarship</li></ul>'
         intro = f'指導教員：<a href="{SUPERVISOR}">西郷 浩人 准教授</a>'
     else:
         affiliation = 'Department of Information Science and Technology<br>Graduate School of Information Science and Electrical Engineering<br>Kyushu University'
         role = 'PhD student'
         lab_text = 'Statistical Learning Laboratory (Saigo Lab)'
-        award = '<strong>2019–2023</strong><span>Excellent Scholarship, Macau University of Science and Technology</span>'
+        award = '<ul class="scholarship-list"><li><a href="https://www.otsukafoundation.org/">Otsuka Toshimi Scholarship</a></li><li><span class="award-period">2019–2023</span>Excellent Scholarship, Macau University of Science and Technology</li></ul>'
         intro = f'Advisor: <a href="{SUPERVISOR}">Hiroto Saigo</a>'
     research = ''.join(f'<div class="research-theme"><h3>{esc(item["titleJa" if ja else "titleEn"])}</h3><p>{esc(item["textJa" if ja else "textEn"])}</p></div>' for item in RESEARCH)
     selected_ids = ('glycoaudit', 'sapse', 'bat')
@@ -106,7 +106,7 @@ def home(lang):
     <section class="section research-copy"><h2>{'研究について' if ja else 'Research Interests'}</h2>{research}</section>
     <section class="section links-section"><h2>{'リンク・連絡先' if ja else 'Links & Contact'}</h2><div class="link-list"><a href="{SCHOLAR}">Google Scholar</a><span aria-hidden="true">/</span><a href="{ORCID}">ORCID</a><span aria-hidden="true">/</span><a href="{GITHUB}">GitHub</a><span aria-hidden="true">/</span><a href="https://x.com/leo_minrui_chen">X</a><span aria-hidden="true">/</span><a href="https://www.linkedin.com/in/min-rui-chen-271707227/">LinkedIn</a></div><p class="email">Email: <a href="mailto:{EMAIL}">{EMAIL}</a></p></section>
     <section class="section biography"><h2>{'略歴' if ja else 'Biography'}</h2>{biography(lang)}</section>
-    <section class="section awards"><h2>{'奨学金' if ja else 'Scholarship'}</h2><p class="award-entry">{award}</p></section>
+    <section class="section awards"><h2>{'奨学金' if ja else 'Scholarships'}</h2>{award}</section>
     <section class="section talks-home"><h2>{'講演' if ja else 'Invited Talks & Seminars'}</h2><ol class="presentation-list">{invited_talks(lang)}</ol></section>
     <section class="section recent"><div class="section-heading"><h2>{'主要論文' if ja else 'Selected Publications'}</h2><a class="text-link" href="publications/">{'すべての業績' if ja else 'All publications'} {icon('arrow')}</a></div><ol class="publication-list">{''.join(paper_markup(p,lang) for p in selected)}</ol></section>'''
 
