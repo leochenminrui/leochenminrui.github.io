@@ -91,13 +91,13 @@ def home(lang):
         affiliation = '九州大学大学院システム情報科学府<br>情報理工学専攻 博士後期課程'
         role = '機械学習・計算生物学・形式手法'
         lab_text = '統計的学習研究室（西郷研究室）'
-        award = '<ul class="scholarship-list"><li><a href="https://www.otsukafoundation.org/">大塚敏美育英奨学財団 奨学金</a></li><li><span class="award-period">2019–2023</span>マカオ科学技術大学 Excellent Scholarship</li></ul>'
+        award = '<ul class="scholarship-list"><li><span class="award-period">2026年4月–2027年3月</span><a href="https://www.otsukafoundation.org/">大塚敏美育英奨学財団 奨学金</a></li><li><span class="award-period">2019–2023</span>マカオ科学技術大学 Excellent Scholarship</li></ul>'
         intro = f'指導教員：<a href="{SUPERVISOR}">西郷 浩人 准教授</a>'
     else:
         affiliation = 'Department of Information Science and Technology<br>Graduate School of Information Science and Electrical Engineering<br>Kyushu University'
         role = 'PhD student'
         lab_text = 'Statistical Learning Laboratory (Saigo Lab)'
-        award = '<ul class="scholarship-list"><li><a href="https://www.otsukafoundation.org/">Otsuka Toshimi Scholarship</a></li><li><span class="award-period">2019–2023</span>Excellent Scholarship, Macau University of Science and Technology</li></ul>'
+        award = '<ul class="scholarship-list"><li><span class="award-period">Apr 2026–Mar 2027</span><a href="https://www.otsukafoundation.org/">Otsuka Toshimi Scholarship</a></li><li><span class="award-period">2019–2023</span>Excellent Scholarship, Macau University of Science and Technology</li></ul>'
         intro = f'Advisor: <a href="{SUPERVISOR}">Hiroto Saigo</a>'
     research = ''.join(f'<div class="research-theme"><h3>{esc(item["titleJa" if ja else "titleEn"])}</h3><p>{esc(item["textJa" if ja else "textEn"])}</p></div>' for item in RESEARCH)
     selected_ids = ('glycoaudit', 'sapse', 'bat')

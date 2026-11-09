@@ -41,4 +41,4 @@ These two posters are listed separately from the seven research records. SAPSE-S
 
 The research overview was updated from the owner's current project records, covering cyclic-peptide modeling and constrained local optimization, single-cell perturbation responses and generalization, and formal verification of scientific reasoning and chemical representations. It describes ongoing research directions without reporting unpublished results.
 
-The owner confirmed receipt of the Otsuka Toshimi scholarship. The foundation name follows its [official website](https://www.otsukafoundation.org/); no award year is inferred.
+The owner confirmed receipt of the Otsuka Toshimi scholarship for April 2026 through March 2027. The foundation name follows its [official website](https://www.otsukafoundation.org/).
