@@ -1,0 +1,26 @@
+[
+  {
+    "id": "riken-summer-school-2026",
+    "title": "AI for Science Summer School",
+    "dateJa": "2026年8月25–27日",
+    "dateEn": "25–27 August 2026",
+    "typeJa": "招待講演者",
+    "typeEn": "Invited speaker",
+    "venueJa": "理化学研究所 和光地区",
+    "venueEn": "RIKEN Wako, Japan",
+    "url": "https://ithems.riken.jp/en/events/ai-for-science-summer-school",
+    "urlJa": "https://ithems.riken.jp/ja/events/ai-for-science-summer-school"
+  },
+  {
+    "id": "riken-deep-in-2026",
+    "title": "Genome Language Models: From DNA Sequences to Biological Foundation Models",
+    "dateJa": "2026年8月13日",
+    "dateEn": "13 August 2026",
+    "typeJa": "セミナー講演（英語）",
+    "typeEn": "Seminar talk · English",
+    "venueJa": "理化学研究所 iTHEMS · DEEP-IN Seminar",
+    "venueEn": "DEEP-IN Seminar, RIKEN iTHEMS",
+    "url": "https://ithems.riken.jp/en/events/genome-language-models-from-dna-sequences-to-biological-foundation-models",
+    "urlJa": "https://ithems.riken.jp/ja/events/genome-language-models-from-dna-sequences-to-biological-foundation-models"
+  }
+]

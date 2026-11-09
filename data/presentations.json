@@ -1,0 +1,38 @@
+[
+  {
+    "id": "iibmp2025",
+    "title": "An Integrated Deep Learning Approach for the Differential Diagnosis of FUO using Clinical and PET/CT Imaging Data",
+    "authors": [
+      "Minrui Chen",
+      "Yi Zhou",
+      "Huidong Jiang",
+      "Yuhan Zhu",
+      "Guanjie Zou",
+      "Minqi Chen",
+      "Rong Tian",
+      "Hiroto Saigo"
+    ],
+    "year": 2025,
+    "venue": "The 13th Integrated Conference on Bioinformatics for Life and Medical Sciences (IIBMP 2025)",
+    "url": "https://smartconf.jp/content/entry-bioinfo2025/program_list",
+    "type": "poster presentation",
+    "presentationId": "PO-090",
+    "location": "Nagoya, Japan"
+  },
+  {
+    "id": "ibis2024",
+    "title": "Scalable Noise-Enhanced Kernel Methods: A Comparative Study of Tanimoto and Gaussian Kernels for Large-Scale Data",
+    "titleJa": "大規模データ学習に向けたスケーラブルなノイズ拡張カーネル法：タニモトカーネルとガウスカーネルの性能比較研究",
+    "authors": [
+      "Minrui Chen",
+      "Hiroto Saigo"
+    ],
+    "year": 2024,
+    "month": 11,
+    "venue": "The 27th Information-Based Induction Sciences Workshop (IBIS 2024)",
+    "venueJa": "第27回情報論的学習理論ワークショップ（IBIS2024）",
+    "url": "https://hyoka.ofc.kyushu-u.ac.jp/html/100021288_ja.html",
+    "type": "poster presentation",
+    "location": "Omiya, Saitama, Japan"
+  }
+]

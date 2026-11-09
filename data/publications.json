@@ -1,0 +1,154 @@
+[
+  {
+    "id": "glycoaudit",
+    "title": "GlycoAudit: structural joinability and annotation degree shape glycan–agent relation ranking",
+    "authors": [
+      "Minqi Chen",
+      "Minrui Chen",
+      "Guanjie Zou",
+      "Lunxu Liu"
+    ],
+    "year": 2026,
+    "venue": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag308",
+    "url": "https://doi.org/10.1093/bioadv/vbag308",
+    "type": "journal article",
+    "status": "published",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": "vbag308",
+    "codeUrl": "https://github.com/leochenminrui/GlycoAudit"
+  },
+  {
+    "id": "solar",
+    "title": "SOLAR: Fixed orthogonal label anchors for single-cell reference mapping",
+    "authors": [
+      "Minqi Chen",
+      "Guanjie Zou",
+      "Minrui Chen",
+      "Hiroto Saigo",
+      "Koji Tsuda",
+      "Lunxu Liu"
+    ],
+    "year": 2026,
+    "venue": "Research Square",
+    "doi": "10.21203/rs.3.rs-11248498/v1",
+    "url": "https://doi.org/10.21203/rs.3.rs-11248498/v1",
+    "type": "preprint",
+    "status": "preprint",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": null
+  },
+  {
+    "id": "peptide",
+    "title": "Site-Conditioned Edit Chemistry for Cyclic Peptide Permeability Modeling",
+    "authors": [
+      "Minrui Chen",
+      "Guanjie Zou",
+      "Minqi Chen",
+      "Bowen Song",
+      "Hiroto Saigo"
+    ],
+    "year": 2026,
+    "venue": "Research Square",
+    "doi": "10.21203/rs.3.rs-9541490/v1",
+    "url": "https://doi.org/10.21203/rs.3.rs-9541490/v1",
+    "type": "preprint",
+    "status": "accepted",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": null,
+    "acceptedVenue": "Journal of Cheminformatics",
+    "codeUrl": "https://github.com/leochenminrui/CycSite"
+  },
+  {
+    "id": "sapse",
+    "title": "SAPSE-Synergy: Balancing Formal Soundness and Empirical Coverage in Neural Theorem Proving",
+    "authors": [
+      "Minrui Chen",
+      "Huidong Jiang",
+      "Hiroto Saigo"
+    ],
+    "year": 2026,
+    "venue": "Formal Methods (FM 2026)",
+    "doi": "10.1007/978-3-032-26204-2_8",
+    "url": "https://doi.org/10.1007/978-3-032-26204-2_8",
+    "type": "conference paper",
+    "status": "published",
+    "volume": "16556",
+    "issue": null,
+    "pages": "151-169",
+    "articleNumber": null,
+    "series": "Lecture Notes in Computer Science",
+    "codeUrl": "https://github.com/leochenminrui/SAPSE-Synergy"
+  },
+  {
+    "id": "bat",
+    "title": "Bandwidth adjustable Tanimoto kernel: a smooth alternative to the Gaussian kernel",
+    "authors": [
+      "Minrui Chen",
+      "Atsuhiro Nishi",
+      "Hiroto Saigo"
+    ],
+    "year": 2026,
+    "venue": "Behaviormetrika",
+    "doi": "10.1007/s41237-026-00296-7",
+    "url": "https://doi.org/10.1007/s41237-026-00296-7",
+    "type": "journal article",
+    "status": "published",
+    "volume": "53",
+    "issue": "2",
+    "pages": "617-640",
+    "articleNumber": null,
+    "correctionUrl": "https://doi.org/10.1007/s41237-026-00314-8"
+  },
+  {
+    "id": "qims",
+    "title": "Development and validation of 18F-FDG PET/CT-based multivariable clinical prediction models for etiological types of fever of unknown origin",
+    "authors": [
+      "Yi Zhou",
+      "Li-Xiang Yang",
+      "Min-Rui Chen",
+      "Ming-Gang Su",
+      "Rong Tian"
+    ],
+    "year": 2025,
+    "venue": "Quantitative Imaging in Medicine and Surgery",
+    "doi": "10.21037/qims-2025-690",
+    "url": "https://doi.org/10.21037/qims-2025-690",
+    "type": "journal article",
+    "status": "published",
+    "volume": "15",
+    "issue": "10",
+    "pages": "9238-9251",
+    "articleNumber": null
+  },
+  {
+    "id": "medmimic",
+    "title": "MedMimic: Physician-Inspired Multimodal Fusion for Early Diagnosis of Fever of Unknown Origin",
+    "authors": [
+      "Minrui Chen",
+      "Yi Zhou",
+      "Huidong Jiang",
+      "Yuhan Zhu",
+      "Guanjie Zou",
+      "Minqi Chen",
+      "Rong Tian",
+      "Hiroto Saigo"
+    ],
+    "year": 2025,
+    "venue": "arXiv",
+    "doi": "10.48550/arXiv.2502.04794",
+    "url": "https://arxiv.org/abs/2502.04794",
+    "type": "preprint",
+    "status": "preprint",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": "2502.04794"
+  }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leochenminrui.github.io/sitemap.xml
