@@ -14,7 +14,7 @@
   {
     "titleJa": "形式検証と検証可能な科学的推論",
     "titleEn": "Formal verification and checkable scientific reasoning",
-    "textJa": "AI を用いた科学的推論を独立に検証できるようにするため、形式手法を研究しています。ニューラル定理証明と形式的な証明チェックを組み合わせる方法や、Markush 構造を含む化学表現に関する推論を、明示的な意味論と検証可能な証拠によって確かめる方法に取り組んでいます。",
-    "textEn": "I investigate how formal methods can make AI-assisted scientific reasoning independently checkable. I develop approaches that combine neural theorem proving with formal proof checking, and use explicit semantics and checkable evidence to reason about chemical structures, including Markush representations."
+    "textJa": "AI を用いた科学的推論を独立に検証できるようにするため、形式手法を研究しています。ニューラル定理証明と形式的な証明チェックを組み合わせる方法や、化学への形式手法の応用に取り組んでいます。",
+    "textEn": "I investigate how formal methods can make AI-assisted scientific reasoning independently checkable. I develop approaches that combine neural theorem proving with formal proof checking, and explore applications of formal methods in chemistry."
   }
 ]
