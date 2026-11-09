@@ -12,6 +12,8 @@ Checked on 9 November 2026.
 
 Graduation dates, official degree names and diploma numbers were checked against the owner's supplied degree certificates. These establish the BSc award on 30 June 2023 (22I111-0026; the third character is uppercase I), and the MPhil / 修士（学術） award on 25 March 2026 (No. 4966). The BSc certificate does not state “Hons”, so that qualifier from the former homepage is not retained. Original documents and their images are not included in this repository. Admission dates are not inferred.
 
+The owner supplied 27 January 2001 as the date of birth and Wuhou District, Chengdu, as the birthplace, and requested their inclusion in the public biography. The Japanese note explains the connection between “Wuhou” and Zhuge Liang (Kongming); the historical title is confirmed by the [Nanyang government biography](https://www.nanyang.gov.cn/2020/07-06/295653.html).
+
 The Japanese department and laboratory names follow the [official Kyushu department page](https://www.isee.kyushu-u.ac.jp/ist.html) and [laboratory directory](https://www.isee.kyushu-u.ac.jp/laboratory_ist.html#saigo).
 
 ## Research records
