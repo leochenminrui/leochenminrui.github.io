@@ -8,6 +8,7 @@ Checked on 9 November 2026.
 - [Author homepage](https://sites.google.com/view/minrui-chen/front-page): name, PhD student status, education, supervisors, contact details, awards and presentation records.
 - [GitHub profile](https://github.com/leochenminrui): account and public projects.
 - [ORCID](https://orcid.org/0000-0002-5845-3200): identity link, also confirmed in the Springer publication record.
+- Advisor Google Scholar links: [Qinglin Zhao](https://scholar.google.com/citations?user=u7SB4nEAAAAJ), confirmed by the Scholar profile search result listing Macau University of Science and Technology and a verified must.edu.mo email; [Hiroto Saigo](https://scholar.google.com/citations?user=-KdwKiMAAAAJ), confirmed by the profile listing Kyushu University and a verified inf.kyushu-u.ac.jp email.
 
 Graduation dates, official degree names and diploma numbers were checked against the owner's supplied degree certificates. These establish the BSc award on 30 June 2023 (22I111-0026; the third character is uppercase I), and the MPhil / 修士（学術） award on 25 March 2026 (No. 4966). The BSc certificate does not state “Hons”, so that qualifier from the former homepage is not retained. Original documents and their images are not included in this repository. Admission dates are not inferred.
 

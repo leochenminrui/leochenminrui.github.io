@@ -11,7 +11,7 @@ GITHUB = "https://github.com/leochenminrui"
 SCHOLAR = "https://scholar.google.com/citations?user=_2mpWrUAAAAJ"
 ORCID = "https://orcid.org/0000-0002-5845-3200"
 LAB = "https://www.isee.kyushu-u.ac.jp/laboratory_ist.html#saigo"
-SUPERVISOR = "https://hyoka.ofc.kyushu-u.ac.jp/html/100021288_ja.html"
+SUPERVISOR = "https://scholar.google.com/citations?user=-KdwKiMAAAAJ"
 EMAIL = "minrui.chen@kyudai.jp"
 SELF_NAMES = {"Minrui Chen", "Min-Rui Chen", "Chen Minrui"}
 PAPERS = json.loads((ROOT / "data/publications.json").read_text())
