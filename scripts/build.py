@@ -104,19 +104,11 @@ def home(lang):
         award = '<ul class="scholarship-list"><li><span class="award-period">Apr 2026–Mar 2027</span><a href="https://www.otsukafoundation.org/">Otsuka Toshimi Scholarship</a></li><li><span class="award-period">2019–2023</span>Excellent Scholarship, Macau University of Science and Technology</li></ul>'
         intro = f'Advisor: <a href="{SUPERVISOR}">Hiroto Saigo</a>'
     research = ''.join(f'<div class="research-theme"><h3>{esc(item["titleJa" if ja else "titleEn"])}</h3><p>{esc(item["textJa" if ja else "textEn"])}</p></div>' for item in RESEARCH)
-    selected_ids = ('glycoaudit', 'sapse', 'bat')
-    selected = [next(p for p in PAPERS if p['id']==pid) for pid in selected_ids]
-    recent_ids = ('ciper', 'same-edit', 'fourth-analogue')
-    recent = [next(p for p in PAPERS if p['id']==pid) for pid in recent_ids]
-    preprint_intro = ('環状ペプチドの合成・測定には時間と資源が必要です。次の候補を選ぶために、膜透過性の予測をどう活用できるかを、3本のプレプリントで検討しています。' if ja else 'Every new analogue takes time and resources to synthesize and measure. These three preprints explore how permeability prediction can support the choice of cyclic peptides to make next.')
     return f'''<section class="profile" aria-labelledby="profile-name"><img class="portrait" src="../assets/avatar.png" width="240" height="240" alt="{'陳民瑞のピクセルアート・アバター' if ja else 'Pixel-art portrait of Minrui Chen'}" fetchpriority="high"><div class="profile-text"><h1 id="profile-name">{name}<span class="other-name" lang="{'en' if ja else 'ja'}">{other}</span></h1><p class="role">{role}</p><p class="affiliation">{affiliation}</p><p class="lab"><a href="{LAB}">{lab_text}</a></p><p class="advisor">{intro}</p></div></section>
     <section class="section research-copy"><h2>{'研究について' if ja else 'Research Interests'}</h2>{research}</section>
-    <section class="section latest-preprints" aria-labelledby="latest-preprints"><div class="section-heading"><h2 id="latest-preprints">{'最近のプレプリント' if ja else 'Recent Preprints'}</h2><a class="text-link" href="publications/">{'すべての業績' if ja else 'All publications'} {icon('arrow')}</a></div><p class="preprint-intro">{preprint_intro}</p><ol class="publication-list">{''.join(paper_markup(p,lang) for p in recent)}</ol></section>
     <section class="section links-section"><h2>{'リンク・連絡先' if ja else 'Links & Contact'}</h2><div class="link-list"><a href="{SCHOLAR}">Google Scholar</a><span aria-hidden="true">/</span><a href="{ORCID}">ORCID</a><span aria-hidden="true">/</span><a href="{GITHUB}">GitHub</a><span aria-hidden="true">/</span><a href="https://x.com/leo_minrui_chen">X</a><span aria-hidden="true">/</span><a href="https://www.linkedin.com/in/leo-minruichen/">LinkedIn</a></div><p class="email">Email: <a href="mailto:{EMAIL}">{EMAIL}</a></p></section>
     <section class="section biography"><h2>{'略歴' if ja else 'Biography'}</h2>{biography(lang)}</section>
-    <section class="section awards"><h2>{'奨学金' if ja else 'Scholarships'}</h2>{award}</section>
-    <section class="section talks-home"><h2>{'講演' if ja else 'Invited Talks & Seminars'}</h2><ol class="presentation-list">{invited_talks(lang)}</ol></section>
-    <section class="section recent"><div class="section-heading"><h2>{'主要論文' if ja else 'Selected Publications'}</h2><a class="text-link" href="publications/">{'すべての業績' if ja else 'All publications'} {icon('arrow')}</a></div><ol class="publication-list">{''.join(paper_markup(p,lang) for p in selected)}</ol></section>'''
+    <section class="section awards"><h2>{'奨学金' if ja else 'Scholarships'}</h2>{award}</section>'''
 
 def publications(lang):
     ja = lang == 'ja'
