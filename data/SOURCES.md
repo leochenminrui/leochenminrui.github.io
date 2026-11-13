@@ -2,6 +2,16 @@
 
 Checked on 9 November 2026.
 
+## Cyclic-peptide preprints added on 14 November 2026
+
+The owner supplied three versioned ChemRxiv links and descriptions of their relationship to molecular selection under limited measurement budgets. Full titles, author order, publication year, version identifiers and preprint status were checked against Crossref's deposited metadata:
+
+- [CIPER: Interpretable Permeability Predictions Guide Cyclic Peptide Editing, v2](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012034/v2), [Crossref record](https://api.crossref.org/works/10.26434/chemrxiv.15012034/v2).
+- [The Same Edit, a Different Outcome: Relational Learning for Cyclic Peptide Permeability, v2](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012031/v2), [Crossref record](https://api.crossref.org/works/10.26434/chemrxiv.15012031/v2).
+- [Predicting the Fourth Analogue: Learning Stereochemical Transfer in Cyclic-Peptide Permeability, v1](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012172/v1), [Crossref record](https://api.crossref.org/works/10.26434/chemrxiv.15012172/v1).
+
+All three supplied versions have a posted date of 13 November 2026; that date is not treated as the first release date of the two v2 manuscripts. CIPER has six authors, including Yi Luo; the other two have five. The bilingual descriptions follow the owner's announcement and the deposited abstracts. They present the relationship between prediction accuracy and candidate selection as a research question, without claiming that lower MAE guarantees better synthesis decisions. All three remain explicitly labelled as preprints. The original seven research records are retained.
+
 ## Profile and biography
 
 - [Google Scholar](https://scholar.google.com/citations?user=_2mpWrUAAAAJ&hl=ja): research interests and the seven included research records.

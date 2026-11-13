@@ -1,5 +1,78 @@
 [
   {
+    "id": "ciper",
+    "title": "CIPER: Interpretable Permeability Predictions Guide Cyclic Peptide Editing",
+    "authors": [
+      "Minrui Chen",
+      "Minqi Chen",
+      "Yi Luo",
+      "Guanjie Zou",
+      "Bowen Song",
+      "Hiroto Saigo"
+    ],
+    "year": 2026,
+    "venue": "ChemRxiv",
+    "doi": "10.26434/chemrxiv.15012034/v2",
+    "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012034/v2",
+    "type": "preprint",
+    "status": "preprint",
+    "version": 2,
+    "summaryEn": "Interpretable edit selection that shows which measured analogues support or oppose a recommendation.",
+    "summaryJa": "実測済みの類縁体の寄与を示し、どの類縁体が構造改変の推奨を支持するか、または反対するかを解釈できる手法。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": null
+  },
+  {
+    "id": "same-edit",
+    "title": "The Same Edit, a Different Outcome: Relational Learning for Cyclic Peptide Permeability",
+    "authors": [
+      "Minrui Chen",
+      "Minqi Chen",
+      "Guanjie Zou",
+      "Bowen Song",
+      "Hiroto Saigo"
+    ],
+    "year": 2026,
+    "venue": "ChemRxiv",
+    "doi": "10.26434/chemrxiv.15012031/v2",
+    "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012031/v2",
+    "type": "preprint",
+    "status": "preprint",
+    "version": 2,
+    "summaryEn": "Learning the chemical context that makes the same modification improve permeability in one peptide and reduce it in another.",
+    "summaryJa": "同じ構造改変が、あるペプチドでは膜透過性を高め、別のペプチドでは低下させる化学的文脈を学習。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": null
+  },
+  {
+    "id": "fourth-analogue",
+    "title": "Predicting the Fourth Analogue: Learning Stereochemical Transfer in Cyclic-Peptide Permeability",
+    "authors": [
+      "Minrui Chen",
+      "Minqi Chen",
+      "Guanjie Zou",
+      "Bowen Song",
+      "Hiroto Saigo"
+    ],
+    "year": 2026,
+    "venue": "ChemRxiv",
+    "doi": "10.26434/chemrxiv.15012172/v1",
+    "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012172/v1",
+    "type": "preprint",
+    "status": "preprint",
+    "version": 1,
+    "summaryEn": "Testing what structural learning adds when a reference peptide and two single-edit analogues have already been measured.",
+    "summaryJa": "基準ペプチドと二つの単一改変類縁体の実測値があるとき、第四の類縁体の予測に構造学習が加える情報を検証。",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "articleNumber": null
+  },
+  {
     "id": "glycoaudit",
     "title": "GlycoAudit: structural joinability and annotation degree shape glycan–agent relation ranking",
     "authors": [

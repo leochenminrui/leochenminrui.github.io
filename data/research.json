@@ -2,8 +2,8 @@
   {
     "titleJa": "分子モデリングと設計",
     "titleEn": "Molecular modeling and design",
-    "textJa": "分子構造に基づく物性予測と分子設計の意思決定を研究しています。特に環状ペプチドの膜透過性を対象に、化学的制約、局所的な構造改変、不確実性、限られた測定予算が候補選択と逐次最適化に与える影響を調べています。",
-    "textEn": "I study structure-aware models for molecular properties and decisions in molecular design, with a particular focus on cyclic-peptide permeability. My current work examines how chemical constraints, local edits, uncertainty, and limited measurement budgets affect candidate selection and sequential optimization."
+    "textJa": "環状ペプチドの膜透過性予測を対象に、予測誤差が小さいモデルが、合成・測定する分子のよりよい選択にもつながるのかを研究しています。測定回数が限られる状況で、実測済みの類縁体に基づく説明可能な構造改変の選択、同じ改変の効果を左右する化学的文脈、少数の類縁体からの構造学習を通じて、予測精度と分子選択の関係を調べています。",
+    "textEn": "I study whether lower prediction error translates into better choices of cyclic peptides to synthesize and measure. My work connects permeability prediction with interpretable edit selection, the chemical context that changes the effect of a modification, and structural learning from small sets of measured analogues. These studies examine the relationship between prediction accuracy and molecular selection under limited measurement budgets."
   },
   {
     "titleJa": "シングルセル摂動予測と仮想細胞",
